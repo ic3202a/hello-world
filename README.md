@@ -2,4 +2,4 @@
 catch-all repository
 
 
-this is where I try things for my CS course :) I am learning to code 
+this is where I try things for my CS course :) 
